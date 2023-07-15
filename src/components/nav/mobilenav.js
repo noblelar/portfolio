@@ -31,7 +31,7 @@ class Mobilenav extends Component {
                     <path
                         d="M37.7844 74.1747H2.42857V86.753H44.7143M67.4286 42.5301V102.627L12.5292 1.61162L12.6429 107.717H2.42857V118.5H33.1429V107.717H21.0714V43.9277L62 118H79.5714V42.5301L73.5 46.5L67.4286 42.5301Z"
                         stroke="white"
-                        stroke-width="4"
+                        strokeWidth="4"
                     />
                 </svg>
 

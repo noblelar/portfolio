@@ -9,7 +9,7 @@ const Mnavbutton = () => {
                 {
                     Navdata.map((nav, n) => {
                         return (
-                            <li>
+                            <li key={n}>
                                 <span>
                                     {nav.value}
                                 </span>

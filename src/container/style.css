@@ -608,7 +608,7 @@ footer {
   font-size: 1.1em;
 }
 
-#for_phone {
+#for_phone, .for_phone {
   display: none;
 }
 
@@ -626,7 +626,7 @@ footer {
     display: none;
   }
 
-  #for_phone {
+  #for_phone, .for_phone {
     display: block;
   }
 

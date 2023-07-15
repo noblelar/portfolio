@@ -8,7 +8,7 @@ const Navbutton = (props) => {
             {
                 NavData.map((nav, n) => {
                     return (
-                        <span className="lap_nav_menu pointer" >
+                        <span key={n} className="lap_nav_menu pointer" >
                             {nav.value}
                         </span>
                     )
