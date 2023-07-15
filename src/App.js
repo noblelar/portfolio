@@ -16,7 +16,7 @@ class App extends Component {
       <div className="App">
         {/* {document.title = 'Noble Ackor'} */}
         <Navigation />
-        <Introduction/>
+        <Introduction />
         <Footer />
         <Scroll />
 
