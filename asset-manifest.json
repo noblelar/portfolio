@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.35d1208a.css",
+    "main.js": "/portfolio/static/js/main.090a61a0.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Intropic.png": "/portfolio/static/media/Intropic.c44a9c990b3370c920e6.png",
+    "static/media/Intropicmb.png": "/portfolio/static/media/Intropicmb.97736f6bdec82d025246.png",
+    "static/media/instagram-brands.svg": "/portfolio/static/media/instagram-brands.10ca4d99375e42470344e72cc25f128e.svg",
+    "static/media/envelope-open-regular..svg": "/portfolio/static/media/envelope-open-regular..b441cde33f5cc1be33bed9a1f3f0a0d2.svg",
+    "static/media/twitter-brands.svg": "/portfolio/static/media/twitter-brands.069c282dc68fbfe37ba6d952bd8a4d8f.svg",
+    "static/media/linkedin-brands.svg": "/portfolio/static/media/linkedin-brands.29d85e803fe0f3943caac3f9a8505c3a.svg",
+    "index.html": "/portfolio/index.html",
+    "main.35d1208a.css.map": "/portfolio/static/css/main.35d1208a.css.map",
+    "main.090a61a0.js.map": "/portfolio/static/js/main.090a61a0.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35d1208a.css",
+    "static/js/main.090a61a0.js"
+  ]
+}
